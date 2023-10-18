@@ -7,6 +7,9 @@
 
 ![Screenshot 2023-10-18 203159](https://github.com/WebApp07/YouTube-Clone/assets/134862312/8c9ffb2a-ab82-44c9-87f4-6580e695100e)
 
+
+![scccc](https://github.com/WebApp07/YouTube-Clone/assets/134862312/21daeb2e-dcfb-42d0-ad03-040e3c604f53)
+
 YouTube Clone is a web application that replicates the core features and functionality of YouTube, allowing users to upload, view, and share videos, as well as interact with other users through comments and likes.
 
 ## Table of Contents
