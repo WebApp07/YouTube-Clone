@@ -3,9 +3,7 @@
 
 ![yc](https://github.com/WebApp07/YouTube-Clone/assets/134862312/9765e1b2-576b-49df-8c12-b17547dfaf64)
 
-
 ![Screenshot 2023-10-18 203159](https://github.com/WebApp07/YouTube-Clone/assets/134862312/8c9ffb2a-ab82-44c9-87f4-6580e695100e)
-
 
 ![scccc](https://github.com/WebApp07/YouTube-Clone/assets/134862312/21daeb2e-dcfb-42d0-ad03-040e3c604f53)
 
